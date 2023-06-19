@@ -1,0 +1,83 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: aliceblue;
+    background-image: url(Asset/Bgc\ image.webp);
+
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    gap: 89px;
+    padding-right: 50px;
+    font-size: large;
+    /* list-style: none; */
+    /* text-decoration-line: none; */
+    font-size: 23px;
+    /* font-weight: 525; */
+    color: black;
+    list-style: none;
+    /* color: aquamarine; */
+    
+}
+a{
+    /* list-style: none; */
+    text-decoration: none;
+    color: black;
+    font-size: xx-large;
+    font-weight: 500;
+    /* list-style-type: none; */
+}
+.logo{
+    /* height: 200px; */
+    /* width: 10px; */
+    padding-left: 150px;
+    margin-top: 2px;
+    /* background-color: aliceblue; */
+    /* border-radius: 200px; */
+    /* font-size: 50px; */
+    /* border-image: 2px; */
+    color: red;
+    font-size: 100px;
+    font-weight: 5px;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 100;
+}
+
+h1{
+    font-size: 45px;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    background-color: rgb(26, 105, 26);
+    color: azure;
+    border: none;
+    border-radius: 15px;
+    font-weight: 700;
+    gap: 7px;
+    letter-spacing: 0.7px;
+    /* tex */
+}
+.contain{
+    padding: 30px;
+    margin: 13px;
+}
+:hover.button{
+    background-color: aliceblue;
+    color: rgb(26, 105, 26);
+    /* font-size: 900; */
+    font-weight: 800;
+    transition: 02s;
+
+}

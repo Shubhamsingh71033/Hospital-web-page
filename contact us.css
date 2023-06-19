@@ -1,0 +1,49 @@
+ /* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ /* }
+ /* *{ */
+    /* margin: 0;
+    padding: 0; */  outline: 0; */
+    /* box-sizing: border-box;
+} * */
+/* .grad{
+    background-color: rgb(129, 183, 230);
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+form{
+    background-color: aquamarine;
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    border-radius: 10px;
+    grid-auto-rows: 50px;
+}  */
+
+.grad{
+    background-image: linear-gradient(red blue);
+    background-color: plum;
+    height: 88vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+form{
+    background-color: aqua;
+    padding: 55px;
+    border: solid 2px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
